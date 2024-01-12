@@ -1,0 +1,3 @@
+
+require("icarusNvim")
+print("Hello")
